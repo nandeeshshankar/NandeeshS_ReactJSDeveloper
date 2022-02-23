@@ -2,12 +2,13 @@
 Authentication to login 
 
 
-1. Download the codebase from git url provided.
-2. Please make sure your have node installed in your machine to run the application. Can be verified using 	  command npm -v and npde -v.
-3. Open command prompt, navigate to NandeeshS_ReactJSDeveloper-main directory(where src dir is located) and run npm install (that downloads dependency into your local machine)
-4. run npm start which kick off the application and open the browser.
-5. Enter any email and password, shows invalid error message in alert.
-5. Enter valid username and password, shows athentication succesful message.
+1. Download the codebase to your local from git url(https://github.com/nandeeshshankar/NandeeshS_ReactJSDeveloper).
+2. Please make sure your have node installed in your machine to run the application. It can be verified using command "npm -v" and "node -v".
+3. Extract the downloaded codebase.
+4. Open command prompt, navigate to NandeeshS_ReactJSDeveloper-main directory(where src dir is located) and run npm install (that downloads dependency into your local machine)
+5. run npm start which kick off the application and open the browser.
+6. Enter any email and password, shows invalid error message in alert.
+7. Enter valid username and password, shows athentication succesful message.
 
 Valid Username and Password:
 =============================
